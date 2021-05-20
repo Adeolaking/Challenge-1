@@ -61,7 +61,7 @@ body .full .leftSide .content .count {
 }
 
 body .full .rightSide .img {
-  background: url("https://github.com/unreal0901/Challenge-1/images/image-header-desktop.jpg"), no-repeat;
+  background: url(/images/image-header-desktop.jpg"), no-repeat;
   background-color: #aa5cdb;
   background-blend-mode: multiply;
   width: 100%;
@@ -86,7 +86,7 @@ body .full .rightSide .img {
     width: auto;
   }
   .rightSide .img {
-    background: url("https://github.com/unreal0901/Challenge-1/images/image-header-mobile.jpg");
+    background: url("/images/image-header-mobile.jpg");
     background-color: #aa5cdb;
     background-blend-mode: multiply;
     width: 100%;
