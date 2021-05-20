@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot]("completed.png")
+![Screenshot]("/completed.png")
 
 ### Links
 
